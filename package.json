@@ -1,0 +1,15 @@
+{
+  "name": "everyone-discord-bot",
+  "version": "1",
+  "description": "A discord bot that replicates the @someone april fools feature",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app"
+  },
+  "author": "CreeperzEdge",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  },
+  "devDependencies": {}
+}
